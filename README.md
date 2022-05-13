@@ -28,3 +28,5 @@
 5.5 localhost:Direcion que indique.
 5.6 localhost:32045.
 5.7 Una vez ingresado deberia de poder ingresar a la app de Wordpress
+6 Con los comandos kubectl apply -f nombre del archivo podemos crear un update de cualquier archivo.
+6.1 con el comando kubectl roll out -f nombre del archivo podemos crear un rollback del archivo modificado.
